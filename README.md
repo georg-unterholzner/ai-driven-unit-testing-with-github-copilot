@@ -6,6 +6,5 @@ This repository contains all the configuration files described in the article an
 
 Clone this repo to experiment with the AI-assisted unit testing workflow. See the article for detailed setup instructions and explanations.
 
-<video controls>
-  <source src="./app/static/ai-driven-unit-testing-screen-recording.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/8930c0b2-1d9f-485f-94ac-3a85cd3b4b14
+
