@@ -2,6 +2,8 @@
 
 A simple, lightweight todo list application built with React and TypeScript for demonstration purposes.
 
+![App screenshot](./static/todo-list-app.png)
+
 ## Features
 
 - **Add todos**: Create new tasks with a simple input form
